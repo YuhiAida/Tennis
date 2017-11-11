@@ -13,7 +13,7 @@ public class Ball {
     public Ball(){
         x =350;
         y =250;
-        xVel = -1;
+        xVel = -4;
         yVel = 1;
     }
     public void draw(Graphics g){
